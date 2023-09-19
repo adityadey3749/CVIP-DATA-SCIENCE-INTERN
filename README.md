@@ -1,0 +1,18 @@
+# CVIP-DATA-SCIENCE-INTERN
+
+## VIRTUAL INTERNSHIP FOR 1 MONTH
+
+### HERE ARE THE PROJECTS
+Phase 1 Projects
+Domain : Data Science Intern
+
+1. NORMAL TASK - EDA - TERRORISM
+2. GOLDEN TASK - BREAST CANCER PREDICTION
+
+Phase 2 Projects
+Domain : Data Science Intern
+
+1. NORMAL TASK - EMAIL SPAM DETECTION
+2. GOLDEN TASK - SPEECH EMOTION RECOGNITION
+
+Dataset : www.Kaggle.com (Obtain from this website)
