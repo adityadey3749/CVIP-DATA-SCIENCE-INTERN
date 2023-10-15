@@ -1,3 +1,3 @@
 # GOOGLE DRIVE LINK
 ## [DRIVE LINK] 
-### https://drive.google.com/drive/u/1/my-drive
+### https://drive.google.com/file/d/1KTnDjzk9pSeWWveZAiYGjHBgJ6QhhaNl/view?usp=sharing
